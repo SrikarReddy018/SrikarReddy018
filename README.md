@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srikar Reddy
 
-🛡️ Cybersecurity | SOC & Penetration Testing | 🌐 Networking | 🐧 Linux | 🐍 Python
+🛡️ Cybersecurity | 🔴 SOC & Penetration Testing | 🌐 Networking | 🐧 Linux | 🐍 Python
 
 ---
 
